@@ -8,11 +8,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/stars/wetakush?affiliations=OWNER&style=for-the-badge&color=00ff41&logo=github&logoColor=0d1117&label=Total%20Stars"/>
+<img src="https://img.shields.io/github/stars/wetakush?affiliations=OWNER&style=for-the-badge&color=0d1117&logo=github&logoColor=00ff41&label=Total%20Stars"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/wetakush?style=for-the-badge&color=00ff41&logo=github&logoColor=0d1117&label=Followers"/>
+<img src="https://img.shields.io/github/followers/wetakush?style=for-the-badge&color=0d1117&logo=github&logoColor=00ff41&label=Followers"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=wetakush&style=for-the-badge&color=00ff41&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=wetakush&style=for-the-badge&color=0d1117&label=Profile+Views"/>
 
 </div>
 
@@ -42,11 +42,11 @@ class SecurityResearcher:
 
 #### `// Languages`
 
-![Python](https://img.shields.io/badge/Python-00ff41?style=for-the-badge&logo=python&logoColor=0d1117)
-![C++](https://img.shields.io/badge/C++-00ff41?style=for-the-badge&logo=cplusplus&logoColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-00ff41?style=for-the-badge&logo=javascript&logoColor=0d1117)
-![HTML5](https://img.shields.io/badge/HTML5-00ff41?style=for-the-badge&logo=html5&logoColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-00ff41?style=for-the-badge&logo=css3&logoColor=0d1117)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ff41)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ff41)
 
 #### `// Security & Tools`
 
@@ -75,7 +75,7 @@ class SecurityResearcher:
 ## `$ neofetch --github`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wetakush&show_icons=true&bg_color=0d1117&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true&ring_color=00ff41" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wetakush&show_icons=true&bg_color=0d1117&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9&hide_border=false&ring_color=00ff41" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wetakush&layout=compact&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&hide_border=false&langs_count=8" />
 </div>
 
@@ -107,11 +107,11 @@ class SecurityResearcher:
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/wetakush.github.io-00ff41?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://wetakush.github.io)
+[![Website](https://img.shields.io/badge/wetakush.github.io-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff41)](https://wetakush.github.io)
 &nbsp;
-[![Telegram](https://img.shields.io/badge/@noxad-00ff41?style=for-the-badge&logo=telegram&logoColor=0d1117)](https://t.me/noxad)
+[![Telegram](https://img.shields.io/badge/@noxad-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff41)](https://t.me/noxad)
 &nbsp;
-[![BI.ZONE](https://img.shields.io/badge/BI.ZONE_Bug_Bounty-00ff41?style=for-the-badge&logo=bugcrowd&logoColor=0d1117)](https://bugbounty.bi.zone/profile/wetakush)
+[![BI.ZONE](https://img.shields.io/badge/BI.ZONE_Bug_Bounty-0d1117?style=for-the-badge&logo=bugcrowd&logoColor=00ff41)](https://bugbounty.bi.zone/profile/wetakush)
 
 </div>
 
