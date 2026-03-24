@@ -98,7 +98,7 @@ class SecurityResearcher:
 ## `$ ls ~/trophies`
 
 <div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=wetakush&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=10" />
+  <img width="95%" src="https://github-trophies.vercel.app/?username=wetakush&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=10" />
 </div>
 
 <br/>
