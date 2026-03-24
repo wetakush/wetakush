@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b00,100:00ff41&height=200&section=header&text=wetakush&fontSize=75&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%26%20Software%20Developer&descAlignY=55&descSize=18&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00cc33,100:00ff41&height=200&section=header&text=wetakush&fontSize=75&fontColor=0d1117&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20|%20Software%20Developer&descAlignY=55&descSize=18&descColor=0d1117"/>
 
 <a href="https://wetakush.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%F0%9F%94%92+Bug+Bounty+Hunter+%40+BI.ZONE;%F0%9F%96%A5%EF%B8%8F+Pentester+%7C+Full-Stack+Developer;%F0%9F%92%80+Breaking+systems+to+make+them+stronger" />
@@ -117,4 +117,4 @@ class SecurityResearcher:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:00cc33&height=120&section=footer"/>
