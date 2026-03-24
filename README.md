@@ -117,12 +117,4 @@ class SecurityResearcher:
 
 <br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wetakush/wetakush/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wetakush/wetakush/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/wetakush/wetakush/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:0d1117&height=120&section=footer"/>
