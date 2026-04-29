@@ -24,7 +24,7 @@
 class SecurityResearcher:
     def __init__(self):
         self.handle    = "wetakush"
-        self.age       = 18
+        self.age       = 19
         self.role      = ["Security Researcher", "Software Developer", "Bug Bounty Hunter"]
         self.platform  = "BI.ZONE Bug Bounty"
         self.focus     = "Offensive Security"
